@@ -21,7 +21,7 @@ Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextj
 - Easy To Customize With GUI
 
 
-### Sections
+### Sectionss
 
 - Header
 - Work
