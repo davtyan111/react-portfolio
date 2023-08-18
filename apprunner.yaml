@@ -1,0 +1,10 @@
+version: 1
+runtime: nodejs14.x 
+build:
+  commands:
+    - echo "No build commands needed for Dockerfile" 
+  artifacts:
+    - source: . 
+web:
+  command: npm run dev
+  port: 3000 
